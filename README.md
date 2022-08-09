@@ -2,6 +2,6 @@
 
 Neste projeto estou usando: React.js, yarn
 
-## Para iniciar o servidor iniciar com o comando: yarn start 
+Para iniciar o servidor iniciar com o comando: yarn start 
 
 1° commit - Apenas informações inicias após o comando "npx create-react-app".
